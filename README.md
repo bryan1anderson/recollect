@@ -38,6 +38,6 @@ We may update this Privacy Policy from time to time, and we will notify you of a
 
 6. Contact us
 
-If you have any questions or concerns about this Privacy Policy or our app, please contact us at support@recollectdiaryapp.com.
+If you have any questions or concerns about this Privacy Policy or our app, please contact us at lemonthingllc@gmail.com
 
 Thank you for using Recollect!
