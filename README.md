@@ -1,43 +1,49 @@
-# Recollect Journal - Diary 
+---
+layout: page
+title: Recollect Privacy Policy
+permalink: /
+---
 
-Privacy Policy for Recollect
+# Recollect privacy policy
 
-This Privacy Policy explains how Recollect collects, uses, and shares information about users ("you") of our journaling app, which includes GPT technology. By using our app, you consent to the collection, use, and sharing of your information as described in this Privacy Policy.
+Last updated: October 9, 2026
 
-1. Information we collect
+Recollect is a journal by Lemon Thing, LLC. Your journal is personal. This page explains the distinction between your journal content, optional Apple services, and the information needed to manage purchases or answer support requests.
 
-We may collect the following types of information when you use our app:
+## Your journal and on-device intelligence
 
-- Information you provide: When you create an account or use our app, we may ask you to provide personal information, such as your name, email address, and password.
+Recollect stores your journal on your devices and uses iCloud for syncing through your Apple account. We do not receive your journal entries on a developer-operated journal server.
 
-- Journal entries: We do not collect journal entries, or any other personal data for that matter.
+Recollect's intelligent writing prompts and journal conversations use on-device processing. **Recollect does not send your journal entries or prompts to third-party AI services for prompt processing.** The app does not use a remote chatbot provider to generate these responses. Some features require a compatible device, language, and Apple Intelligence setup.
 
-- Technical information: We collect information about your device including: browser type, and operating system.
+## Apple services and permissions
 
-2. How we use information
+Recollect uses Apple services for features such as iCloud sync and access to items you choose from Photos and Journaling Suggestions. Photos access, microphone access, speech recognition, and other system permissions are requested for the features that need them. You can manage these permissions in system settings. Limiting access may limit the associated feature.
 
-We use the information we collect to:
+iCloud and your Apple account are governed by Apple's privacy practices and your account settings. Syncing through iCloud is separate from on-device prompt processing.
 
-- Provide and improve our app: We use your information to operate and improve our app, including developing new features and fixing bugs.
+## Purchases
 
-- Communicate with you: We may use your information to send you service-related messages, such as notifications about your account or changes to our Privacy Policy.
+Apple processes App Store payments. Recollect uses RevenueCat to check purchase and subscription status and restore access to purchased features. This involves purchase information and an app user identifier. The current app uses an automatically generated RevenueCat identifier rather than requiring a separate Recollect login.
 
-3. How we share information
+Purchase management is separate from your journal: Recollect does not send journal entries or prompts to RevenueCat. See [Apple's privacy policy](https://www.apple.com/legal/privacy/) and [RevenueCat's privacy policy](https://www.revenuecat.com/privacy/) for information about their services.
 
-We may share your information with third parties in the following ways:
+## Support and information you choose to share
 
-- With service providers: We may share user entered data (like your preferences for notifications or prompts) to a third party service which does not track or save your data to generate some prompts..
+If you email us, we receive your email address, message, and any attachments you send. We use this information to answer your request and investigate the issue. Please avoid sending private journal entries, photos, or recordings unless you choose to share them for a specific support request. You can usually describe a problem without sending journal content.
 
-4. Security
+If you export a file or share content from Recollect, the destination you choose receives that content under its own privacy practices.
 
-We take reasonable measures to protect your information from unauthorized access or disclosure, such as by using encryption and access controls. However, no security measure is 100% effective, so we cannot guarantee the security of your information.
+## Your choices
 
-5. Changes to this Privacy Policy
+You can manage app permissions in system settings and manage subscriptions through your Apple account. Deleting the app does not cancel a subscription. Before deleting app or iCloud data, preserve any content you want to keep. Recollect's JSON export is a lightweight export of text and metadata, not a complete media archive or full-fidelity restore.
 
-We may update this Privacy Policy from time to time, and we will notify you of any changes by posting the new policy on our website or through the app. Your continued use of our app after we make changes indicates your acceptance of the new policy.
+Contact us with questions about this policy or information you have sent us in a support request.
 
-6. Contact us
+## Changes and contact
 
-If you have any questions or concerns about this Privacy Policy or our app, please contact us at lemonthingllc@gmail.com
+We will update this page when these practices change and revise the date above.
 
-Thank you for using Recollect!
+[lemonthingllc@gmail.com](mailto:lemonthingllc@gmail.com)
+
+[Support](./support/) · [About Recollect](./marketing/)
